@@ -10,4 +10,4 @@ and interactive field selection using mouse and keyboard input.
 - Object-Oriented Design
 
 ## Notes
-This project was developed as part of a university assignment.
+Originally developed as a university project (2023). Refactored and published to GitHub in 2026.
